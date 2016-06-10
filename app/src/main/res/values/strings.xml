@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CustomPicker</string>
+
+    <string name="pickerview_submit">OK</string>
+    <string name="period">Period</string>
+    <string name="since">Since: </string>
+    <string name="to">To: </string>
+    <string name="mm_yyyy">MM/YYYY</string>
+    <string name="show">SHOW</string>
+    <string name="since_date">Select since Date</string>
+    <string name="to_date">Select to Date</string>
+    <string name="select_correct_dates">Select correct dates</string>
+    <string name="show_message">Since: %1$s - To: %2$s</string>
+
+</resources>
